@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on more python projects and to learn a new coding language
-- 📫 How to reach me via email.
+- 📫 Email hansel.chin@gmail.com.
 
 <!---
 theberlinwall1/theberlinwall1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

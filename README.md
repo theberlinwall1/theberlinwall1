@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theberlinwall1
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,C and HTML.
 - 💞️ I’m looking to collaborate on more python projects and to learn a new coding language
 - 📫 Email hansel.chin@gmail.com.
 
